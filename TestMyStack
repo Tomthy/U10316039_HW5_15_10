@@ -15,5 +15,6 @@ public class TestMyStack{
 
 		System.out.println(MyStack1.getSize());
 		System.out.println(MyStack2.getSize());
+		
 	}
 }
